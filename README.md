@@ -1,6 +1,8 @@
 # 📱 ZingQuark QR Scan
 
 A fast and smart QR code scanner built with **MIT App Inventor**.
+<img width="296" height="548" alt="image" src="https://github.com/user-attachments/assets/ff74b8ee-61d9-4c83-82d6-3c7b1973bc84" />
+
 
 ZingQuark QR Scan doesn't just scan QR codes — it detects what the QR code contains and automatically handles different types of information using your Android device.
 
